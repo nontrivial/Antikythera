@@ -1,0 +1,11 @@
+{
+    Name                :   MyBacktest1
+    Holidays            :   None,
+    DailyStart          :   09:00:00+08,
+    DailyEnd            :   10:00:00Z,
+    Start               :   2011-01-01T03:00:00Z,
+    End                 :   2013-01-01T09:00:00Z,
+    ExcludeDaysOfWeek   :   [Monday, Wednesday],
+    ExcludeDates        :   [MyDateSeries1, 2011-07-03],
+    TickType            :   30min
+}
